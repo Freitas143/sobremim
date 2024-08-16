@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(184, 236, 218);
+}
+
+header{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#conteudo{
+    width: 1000px;
+    height: 1000px; padding: 20px;
+    margin: 200px auto; 
+    background-color: rgb(136, 224, 196);
+    text-align: center;
+}
